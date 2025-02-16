@@ -33,7 +33,7 @@ J'ai développé et géré plusieurs projets liés à Minecraft :
 - Création et administration de serveurs Minecraft
 - Développement de plugins, mods, clients personnalisés et launchers Minecraft
 
-Découvrez mon projet **"Meagan Client"** ici : [Discord](https://discord.gg/S4NzNqzzym)
+Découvrez mon projet **"Meagan Client"** ici : [Discord](https://discord.gg/cWETEQmksG)
 
 ## Contact 📬
 
