@@ -33,13 +33,11 @@ J'ai développé et géré plusieurs projets liés à Minecraft :
 - Création et administration de serveurs Minecraft
 - Développement de plugins, mods, clients personnalisés et launchers Minecraft
 
-Découvrez mon projet **"Meagan Client"** ici : [Discord](https://discord.gg/cWETEQmksG)
-
 ## Contact 📬
 
 Pour toute question ou pour discuter de projets, vous pouvez me contacter via :
 - [Instagram](https://www.instagram.com/vnt_enzo/) 📸
-- [Discord](https://discord.gg/S4NzNqzzym) | Créez un ticket 📨
+- [Discord](https://discord.com/app) | narza_ay 📨
 
 
 Merci d'avoir visité mon profil et découvert mes projets. 🚀
